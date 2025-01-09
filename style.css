@@ -5,8 +5,8 @@ body{
   border: solid 3px black;
   width:100px;
   height:100px;
-  display:inline-block;
-font-size:30px;
-color:#445599;
-background-color:#9fffff;
+  display:inline;
+  font-size:30px;
+  color:#445599;
+  background-color:#9fffff;
 }
